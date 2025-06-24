@@ -43,7 +43,7 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:felixshibu@example.com" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="email" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/felix-shibu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:felixshibu@example.com" target="_blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="email" height="30" width="30" /></a>
 </p>
 
